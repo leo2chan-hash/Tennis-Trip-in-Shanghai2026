@@ -1,0 +1,12 @@
+{
+  "name": "shanghai-trip-control",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.12.2"
+  },
+  "dependencies": {
+    "@netlify/database": "^2.0.1"
+  }
+}
